@@ -1,0 +1,6 @@
+# Ignore compiled class files
+bin/
+*.class
+.project
+.classpath
+.settings/
